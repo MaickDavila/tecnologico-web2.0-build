@@ -199,10 +199,10 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "~icons/mdi/check-underline": [
-    "/assets/requisitos.c41b277e.js"
+    "/assets/requisitos.9c092fc1.js"
   ],
   "src/pages/requisitos.vue": [
-    "/assets/requisitos.c41b277e.js"
+    "/assets/requisitos.9c092fc1.js"
   ],
   "~icons/mdi/arrow-down": [
     "/assets/accordion.d7643fe8.js"
@@ -214,11 +214,11 @@
     "/assets/README.07a838e2.js"
   ],
   "src/pages/Info.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Info.21fd2cff.js",
+    "/assets/Info.e7379834.js",
     "/assets/Info.ccd8f934.css"
   ],
   "src/pages/Info.vue": [
-    "/assets/Info.21fd2cff.js",
+    "/assets/Info.e7379834.js",
     "/assets/Info.ccd8f934.css"
   ],
   "node_modules/.pnpm/vue3-carousel@0.1.28_vue@3.2.19/node_modules/vue3-carousel/dist/carousel.css": [
@@ -230,49 +230,49 @@
     "/assets/carousel.es.b18e8c9b.css"
   ],
   "~icons/mdi/clock-time-seven": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/party-popper": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/creation": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/teacher-medium-dark-skin-tone": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/man-student-medium-light-skin-tone": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/woman-student-medium-light-skin-tone": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/pages/eventos.vue": [
-    "/assets/eventos.7d11033b.js",
+    "/assets/eventos.63f8ff85.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/icon-park/document-folder": [
-    "/assets/documentos.a7a836ce.js"
+    "/assets/documentos.4059ca31.js"
   ],
   "~icons/vscode-icons/file-type-pdf": [
-    "/assets/documentos.a7a836ce.js"
+    "/assets/documentos.4059ca31.js"
   ],
   "src/pages/documentos.vue": [
-    "/assets/documentos.a7a836ce.js"
+    "/assets/documentos.4059ca31.js"
   ],
   "src/pages/about.md": [
     "/assets/about.88e670b4.js"
@@ -290,11 +290,11 @@
     "/assets/[name].5842016e.js"
   ],
   "src/pages/carreras/[carrera].vue?vue&type=style&index=0&lang.css": [
-    "/assets/[carrera].1d3a50d8.js",
+    "/assets/[carrera].c6bc0017.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/carreras/[carrera].vue": [
-    "/assets/[carrera].1d3a50d8.js",
+    "/assets/[carrera].c6bc0017.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
@@ -310,33 +310,33 @@
     "/assets/404.294caaf1.js"
   ],
   "~icons/carbon/campsite": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "~icons/carbon/moon": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "~icons/carbon/sun": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "~icons/carbon/language": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "~icons/carbon/logo-github": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "node_modules/.pnpm/@vueuse+shared@6.5.3_vue@3.2.19/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "node_modules/.pnpm/@vueuse+core@6.5.3_vue@3.2.19/node_modules/@vueuse/core/index.mjs": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "src/logic/dark.ts": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "src/components/Footer.vue": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.feb4a4f4.js"
+    "/assets/home.5c84d92f.js"
   ]
 }
