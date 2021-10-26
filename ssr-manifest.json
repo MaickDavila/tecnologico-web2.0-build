@@ -199,10 +199,10 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "~icons/mdi/check-underline": [
-    "/assets/requisitos.23e9d047.js"
+    "/assets/requisitos.1476b740.js"
   ],
   "src/pages/requisitos.vue": [
-    "/assets/requisitos.23e9d047.js"
+    "/assets/requisitos.1476b740.js"
   ],
   "~icons/mdi/arrow-down": [
     "/assets/accordion.d7643fe8.js"
@@ -214,11 +214,11 @@
     "/assets/README.07a838e2.js"
   ],
   "src/pages/Info.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Info.6f5fa407.js",
+    "/assets/Info.65c97dca.js",
     "/assets/Info.ccd8f934.css"
   ],
   "src/pages/Info.vue": [
-    "/assets/Info.6f5fa407.js",
+    "/assets/Info.65c97dca.js",
     "/assets/Info.ccd8f934.css"
   ],
   "node_modules/.pnpm/vue3-carousel@0.1.28_vue@3.2.19/node_modules/vue3-carousel/dist/carousel.css": [
@@ -230,27 +230,27 @@
     "/assets/carousel.es.b18e8c9b.css"
   ],
   "~icons/mdi/clock-time-seven": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "~icons/mdi/party-popper": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "~icons/mdi/creation": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "src/pages/eventos.vue": [
-    "/assets/eventos.81b35250.js",
+    "/assets/eventos.c0ddb3ba.js",
     "/assets/eventos.e6e12466.css"
   ],
   "~icons/icon-park/document-folder": [
@@ -278,11 +278,11 @@
     "/assets/[name].5842016e.js"
   ],
   "src/pages/carreras/[carrera].vue?vue&type=style&index=0&lang.css": [
-    "/assets/[carrera].dab72445.js",
+    "/assets/[carrera].b9a6af1a.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/carreras/[carrera].vue": [
-    "/assets/[carrera].dab72445.js",
+    "/assets/[carrera].b9a6af1a.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
@@ -298,33 +298,33 @@
     "/assets/404.294caaf1.js"
   ],
   "~icons/carbon/campsite": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "~icons/carbon/moon": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "~icons/carbon/sun": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "~icons/carbon/language": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "~icons/carbon/logo-github": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "node_modules/.pnpm/@vueuse+shared@6.5.3_vue@3.2.19/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "node_modules/.pnpm/@vueuse+core@6.5.3_vue@3.2.19/node_modules/@vueuse/core/index.mjs": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "src/logic/dark.ts": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "src/components/Footer.vue": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.60806b37.js"
+    "/assets/home.4c398164.js"
   ]
 }
