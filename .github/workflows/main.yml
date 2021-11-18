@@ -9,8 +9,8 @@ jobs:
     - name: executing remote ssh commands using ssh key
       uses: appleboy/ssh-action@master
       with:
-        host: ${{ secrets.TECNOLOGICO_HOST }}
-        username: ${{ secrets.TECNOLOGICO_USER }}
+        host: iestppadah.com
+        username: maick
         key: ${{ secrets.TECNOLOGICO_SSHKEY }}
         port: ${{ secrets.TECNOLOGICO_PORT }}
-        script: whoami 
+        script: whoami
