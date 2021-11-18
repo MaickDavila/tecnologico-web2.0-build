@@ -9,7 +9,7 @@ jobs:
     - name: executing remote ssh commands using ssh key
       uses: appleboy/ssh-action@master
       with:
-        host: iestppadah.com
+        host: iestppadah.edu.pe
         username: maick
         key: ${{ secrets.TECNOLOGICO_SSHKEY }}
         port: ${{ secrets.TECNOLOGICO_PORT }}
