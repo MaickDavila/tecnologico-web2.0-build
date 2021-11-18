@@ -6,11 +6,11 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: executing remote ssh commands using password
+    - name: executing remote ssh commands using ssh key
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.TECNOLOGICO_HOST }}
         username: ${{ secrets.TECNOLOGICO_USER }}
-        password: ${{ secrets.TECNOLOGICO_PASSWORD }}
+        key: ${{ secrets.TECNOLOGICO_SSHKEY }}
         port: ${{ secrets.TECNOLOGICO_PORT }}
-        script: whoami
+        script: whoami 
