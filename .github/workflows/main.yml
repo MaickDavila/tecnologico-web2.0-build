@@ -35,6 +35,6 @@ jobs:
         USERNAME: ${{ secrets.TECNOLOGICO_USER }}
         PORT: ${{ secrets.TECNOLOGICO_PORT }}
         KEY: ${{ secrets.TECNOLOGICO_SSHKEY }}
-        passphrase:  ${{secrets.TECNOLOGICO_PASSWORD}}
+        passphrase:  ${{ secrets.TECNOLOGICO_PASSWORD }}
     - run: ls
     - run: ls -al
