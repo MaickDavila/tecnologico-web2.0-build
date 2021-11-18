@@ -1,19 +1,31 @@
-on: 
-  push:
-    branches:
-       - main
-name: 🚀 Deploy website on push
+name: Deploy
+
+on: [push]
+
 jobs:
-  web-deploy:
-    name: 🎉 Deploy
+  build:
+
     runs-on: ubuntu-latest
+
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v2
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+    - uses: actions/checkout@v1
+
+    - name: Copy repository contents via scp
+      uses: appleboy/scp-action@master
+      env:
+        HOST: ${{ secrets.TECNOLOGICO_HOST }}
+        USERNAME: ${{ secrets.TECNOLOGICO_USER }}
+        PORT: ${{ secrets.TECNOLOGICO_PORT }}
+        KEY: ${{ secrets.TECNOLOGICO_SSHKEY }}
       with:
-        server: ${{ secrets.tecnologico_host }}
-        username: ${{ secrets.tecnologico_user }}
-        password: ${{ secrets.tecnologico_password }}         
+        source: "."
+        target: "/var/www/iestppadah.edu.pe/html"
+
+    - name: Executing remote command
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.TECNOLOGICO_HOST }}
+        USERNAME: ${{ secrets.TECNOLOGICO_USER }}
+        PORT: ${{ secrets.TECNOLOGICO_PORT }}
+        KEY: ${{ secrets.TECNOLOGICO_SSHKEY }}
+        script: ls
