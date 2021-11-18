@@ -1,16 +1,40 @@
-name: remote ssh command
-on: [push]
-jobs:
+name: Node.js CI
 
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
   build:
-    name: Build
+
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+    
     steps:
-    - name: executing remote ssh commands using ssh key
-      uses: appleboy/ssh-action@master
+    - uses: actions/checkout@v2
+    - uses: actions/checkout@master
+    - name: copy file via ssh password
+      uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.TECNOLOGICO_HOST }}
         username: ${{ secrets.TECNOLOGICO_USER }}
-        key: ${{ secrets.TECNOLOGICO_SSHKEY }}
+        key:  ${{ secrets.TECNOLOGICO_SSHKEY }}
         port: ${{ secrets.TECNOLOGICO_PORT }}
-        script: whoami 
+        passphrase:  ${{ secrets.TECNOLOGICO_PASSWORD }}
+        source: "."
+        target: "~/testing"
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.TECNOLOGICO_HOST }}
+        USERNAME: ${{ secrets.TECNOLOGICO_USER }}
+        PORT: ${{ secrets.TECNOLOGICO_PORT }}
+        KEY: ${{ secrets.TECNOLOGICO_SSHKEY }}
+        passphrase:  ${{secrets.TECNOLOGICO_PASSWORD}}
+    - run: ls
+    - run: ls -al
