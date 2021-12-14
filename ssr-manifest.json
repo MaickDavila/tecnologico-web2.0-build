@@ -135,7 +135,7 @@
   "\u0000commonjsHelpers.js": [
     "/assets/vendor.fc94bee1.js"
   ],
-  "\u0000C:/Desarrollo/Tecnologico 2021/tecnologico-web2.0/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
+  "\u0000D:/Desarrollo/Tecnologico 2021/tecnologico-web2.0/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/vendor.fc94bee1.js"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
@@ -199,13 +199,13 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "~icons/icon-park/document-folder": [
-    "/assets/transparencia.3fe38a72.js"
+    "/assets/transparencia.4a4e08e1.js"
   ],
   "~icons/vscode-icons/file-type-pdf": [
-    "/assets/transparencia.3fe38a72.js"
+    "/assets/transparencia.4a4e08e1.js"
   ],
   "src/pages/transparencia.vue": [
-    "/assets/transparencia.3fe38a72.js"
+    "/assets/transparencia.4a4e08e1.js"
   ],
   "~icons/mdi/arrow-down": [
     "/assets/accordion.d7643fe8.js"
@@ -214,20 +214,20 @@
     "/assets/accordion.d7643fe8.js"
   ],
   "~icons/mdi/check-underline": [
-    "/assets/requisitos.78c30cd1.js"
+    "/assets/requisitos.3f99f190.js"
   ],
   "src/pages/requisitos.vue": [
-    "/assets/requisitos.78c30cd1.js"
+    "/assets/requisitos.3f99f190.js"
   ],
   "src/pages/README.md": [
     "/assets/README.07a838e2.js"
   ],
   "src/pages/Info.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Info.90096d0c.js",
+    "/assets/Info.97cb6575.js",
     "/assets/Info.ccd8f934.css"
   ],
   "src/pages/Info.vue": [
-    "/assets/Info.90096d0c.js",
+    "/assets/Info.97cb6575.js",
     "/assets/Info.ccd8f934.css"
   ],
   "node_modules/.pnpm/vue3-carousel@0.1.28_vue@3.2.19/node_modules/vue3-carousel/dist/carousel.css": [
@@ -239,28 +239,40 @@
     "/assets/carousel.es.b18e8c9b.css"
   ],
   "~icons/mdi/clock-time-seven": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/party-popper": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/creation": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
+  ],
+  "~icons/twemoji/teacher-medium-dark-skin-tone": [
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
+  ],
+  "~icons/twemoji/man-student-medium-light-skin-tone": [
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
+  ],
+  "~icons/twemoji/woman-student-medium-light-skin-tone": [
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "src/pages/eventos.vue": [
-    "/assets/eventos.4e8956c4.js",
-    "/assets/eventos.e6e12466.css"
+    "/assets/eventos.d5c0461b.js",
+    "/assets/eventos.2370a500.css"
   ],
   "src/pages/about.md": [
     "/assets/about.88e670b4.js"
@@ -278,11 +290,11 @@
     "/assets/[name].5842016e.js"
   ],
   "src/pages/carreras/[carrera].vue?vue&type=style&index=0&lang.css": [
-    "/assets/[carrera].d676e624.js",
+    "/assets/[carrera].00ef60e9.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/carreras/[carrera].vue": [
-    "/assets/[carrera].d676e624.js",
+    "/assets/[carrera].00ef60e9.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
@@ -298,33 +310,33 @@
     "/assets/404.294caaf1.js"
   ],
   "~icons/carbon/campsite": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "~icons/carbon/moon": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "~icons/carbon/sun": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "~icons/carbon/language": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "~icons/carbon/logo-github": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "node_modules/.pnpm/@vueuse+shared@6.5.3_vue@3.2.19/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "node_modules/.pnpm/@vueuse+core@6.5.3_vue@3.2.19/node_modules/@vueuse/core/index.mjs": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "src/logic/dark.ts": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "src/components/Footer.vue": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.e5049b6b.js"
+    "/assets/home.865306e8.js"
   ]
 }
