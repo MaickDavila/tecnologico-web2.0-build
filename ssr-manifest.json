@@ -214,21 +214,21 @@
     "/assets/accordion.d7643fe8.js"
   ],
   "~icons/mdi/check-underline": [
-    "/assets/requisitos.305bd656.js"
+    "/assets/requisitos.79b18349.js"
   ],
   "src/pages/requisitos.vue": [
-    "/assets/requisitos.305bd656.js"
+    "/assets/requisitos.79b18349.js"
   ],
   "src/pages/README.md": [
     "/assets/README.07a838e2.js"
   ],
   "src/pages/Info.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Info.4ceacbea.js",
-    "/assets/Info.5d549908.css"
+    "/assets/Info.74139105.js",
+    "/assets/Info.f21b0ca9.css"
   ],
   "src/pages/Info.vue": [
-    "/assets/Info.4ceacbea.js",
-    "/assets/Info.5d549908.css"
+    "/assets/Info.74139105.js",
+    "/assets/Info.f21b0ca9.css"
   ],
   "node_modules/.pnpm/vue3-carousel@0.1.28_vue@3.2.19/node_modules/vue3-carousel/dist/carousel.css": [
     "/assets/carousel.es.ef0057bf.js",
@@ -239,39 +239,39 @@
     "/assets/carousel.es.b18e8c9b.css"
   ],
   "~icons/mdi/clock-time-seven": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/party-popper": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/mdi/creation": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/teacher-medium-dark-skin-tone": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/man-student-medium-light-skin-tone": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "~icons/twemoji/woman-student-medium-light-skin-tone": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/components/eventos-components/semana-tecnica.vue": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/pages/eventos.vue": [
-    "/assets/eventos.5d57ea5d.js",
+    "/assets/eventos.cb26fdfd.js",
     "/assets/eventos.2370a500.css"
   ],
   "src/pages/about.md": [
@@ -290,11 +290,11 @@
     "/assets/[name].5842016e.js"
   ],
   "src/pages/carreras/[carrera].vue?vue&type=style&index=0&lang.css": [
-    "/assets/[carrera].020da5d7.js",
+    "/assets/[carrera].68fffc1d.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/carreras/[carrera].vue": [
-    "/assets/[carrera].020da5d7.js",
+    "/assets/[carrera].68fffc1d.js",
     "/assets/[carrera].611cf19a.css"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
@@ -310,33 +310,33 @@
     "/assets/404.294caaf1.js"
   ],
   "~icons/carbon/campsite": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "~icons/carbon/moon": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "~icons/carbon/sun": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "~icons/carbon/language": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "~icons/carbon/logo-github": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "node_modules/.pnpm/@vueuse+shared@6.5.3_vue@3.2.19/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "node_modules/.pnpm/@vueuse+core@6.5.3_vue@3.2.19/node_modules/@vueuse/core/index.mjs": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "src/logic/dark.ts": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "src/components/Footer.vue": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.1dec5e96.js"
+    "/assets/home.bc4f7d39.js"
   ]
 }
